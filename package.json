@@ -1,0 +1,42 @@
+{
+  "name": "ductape",
+  "version": "0.0.0",
+  "description": "Ductape is better tape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pre-commit": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexindigo/ductape.git"
+  },
+  "keywords": [
+    "assert",
+    "harness",
+    "test",
+    "tap",
+    "duct",
+    "tape",
+    "duck",
+    "setup",
+    "teardown"
+  ],
+  "author": "Alex Indigo <iam@alexindigo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexindigo/ductape/issues"
+  },
+  "homepage": "https://github.com/alexindigo/ductape#readme",
+  "dependencies": {
+    "tape": "^4.6.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.11",
+    "eslint": "^3.1.1",
+    "istanbul": "^0.4.4",
+    "pre-commit": "^1.1.3",
+    "tap-spec": "^4.1.1"
+  }
+}
