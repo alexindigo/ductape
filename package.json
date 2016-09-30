@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/alexindigo/ductape#readme",
   "dependencies": {
-    "tape": "^4.6.0"
+    "tape": "^4.6.2"
   },
   "devDependencies": {
     "coveralls": "^2.11.11",
